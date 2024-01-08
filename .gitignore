@@ -1,2 +1,5 @@
 src/.venv
+.venv
 __pycache__
+securitygroupie-log*
+dist/*
